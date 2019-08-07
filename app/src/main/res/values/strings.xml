@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Voice Learning App</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="welcome" translatable="false">
+       \n שלום
+       \n הגעת לאפליקציה שבה תלמד/ תלמדי באנגלית את הספרות 0-9
+        \n כחלק מהאפליקציה יהיו לך תרגילים שיופיע במהלך השימוש בפלאפון הזה.
+        כמו למשל:\n
+        ברגע שיתקבל סמס, או שתסתיים שיחת פלאפון עם מישהוא או בשימוש באפליקצית הווטסאפ.\n
+        כחלק מהתירגול ישמעו לך המספרים ותצטרכו להקליט את עצמכם.\n
+        בשביל להקליט פשוט תלחצו על המספר או על השורה שבה כתוב שתורכם.\n
+        בשביל לשמוע שוב את מה שנאמר אם לא הספקת, תוכל ללחוץ על המסך עצמו.\n
+        תהנו ובהצלחה!\n
+    </string>
+
+    <string name="lessons_array" translatable="false">בחר לך שיעור להיום</string>
+
+    <string-array name="lesson_arrays">
+        <item>ספרות</item>
+        <item>אותיות</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970118243796",
+    "firebase_url": "https://voicelearningapp.firebaseio.com",
+    "project_id": "voicelearningapp",
+    "storage_bucket": "voicelearningapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970118243796:android:9f8bf766a4a49670",
+        "android_client_info": {
+          "package_name": "com.natali.voicelearningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970118243796-omgictkdu74uqn2sjem6j033ddpmfs52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.natali.voicelearningapp",
+            "certificate_hash": "ad5936766e2a34461005c99831ac56186e00f14d"
+          }
+        },
+        {
+          "client_id": "970118243796-qd409gnrjpbn9qjeqh69iq6vmdfour4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRJyPauSaDlb8GBiZ8sgfNMhmfdWCz0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970118243796-qd409gnrjpbn9qjeqh69iq6vmdfour4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
